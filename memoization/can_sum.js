@@ -40,7 +40,7 @@ console.log(canSum(300, [7, 14])) // false
 // w/ memoization
 // m = target sum
 // n = array length
-// time O(n^m)
+// time O(m*n)
 // space O(m)
 
 
