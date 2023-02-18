@@ -45,5 +45,5 @@ console.log(bestSum(8, [1, 4, 5])); // [4,4]
 // w/ memoization
 // m = target sum
 // n = array length
-// time O(m*n)
-// space O(m)
+// time O(m^2*n)
+// space O(m^2)
